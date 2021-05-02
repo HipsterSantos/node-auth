@@ -1,0 +1,10 @@
+=======Todo in just minutes ======
+
+1- JWT ,user authentication ,using nodejs and angular 
+2- Mongodb and mongodb relationship 
+
+
+3-shopping cart ,adding payment 
+    -passport 
+    -squareup 
+    -
